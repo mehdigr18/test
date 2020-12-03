@@ -1,6 +1,6 @@
 qlf:
     resource: "@QlfBundle/Resources/config/routing.yml"
-    prefix:   /taraji
+    prefix:   /tarajii
 
 # app:
     # resource: '@AppBundle/Controller/'
