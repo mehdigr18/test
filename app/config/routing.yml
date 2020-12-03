@@ -1,0 +1,10 @@
+qlf:
+    resource: "@QlfBundle/Resources/config/routing.yml"
+    prefix:   /taraji
+
+# app:
+    # resource: '@AppBundle/Controller/'
+    # type: annotation
+
+
+

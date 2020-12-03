@@ -1,0 +1,11 @@
+qlf_homepage:
+    path:     /
+    defaults: { _controller: QlfBundle:Default:index }
+qlf_deuxpage:
+    path:     /01
+    defaults: { _controller: QlfBundle:Default:index01}
+qlf_troispage:
+    path:     /football/{name}
+    defaults: { _controller: QlfBundle:Foot:foot}
+
+    
